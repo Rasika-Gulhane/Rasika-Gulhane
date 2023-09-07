@@ -5,8 +5,6 @@ I come from the heart of the Big Apple, NY 🗽🇱🇷 where I'm pursuing my Ma
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
-## My Skills and Learnings are mentioned below:
-
 
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
@@ -46,6 +44,10 @@ I come from the heart of the Big Apple, NY 🗽🇱🇷 where I'm pursuing my Ma
 ### Restful API's
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### Tools
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <br></br>
 ### Let connect :
