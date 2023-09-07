@@ -1,9 +1,7 @@
 ### Hi there 👋
 My name is **Rasika Gulhane**. 
-- A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
-
+A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
 I come from the heart of the Big Apple, NY 🗽🇱🇷 where I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
-
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
