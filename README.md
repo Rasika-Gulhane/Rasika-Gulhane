@@ -5,6 +5,16 @@ I come from the heart of the Big Apple, NY 🗽🇱🇷 where I'm pursuing my Ma
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
+Being a Master Student I am equipped with a solid background in data analysis, Machine Learning, Deep learning  and AI model deployment. I am graduating in May 2024 so excited about the possibility of contributing my skills with leading organizations.
+
+Privilage to Intern at a marketing and real estate firm called Shoptaki, a startup, I actively contribute to the development of a Property Recommendation System and complex sponsorship recommendations models.
+
+Moreover, I'm particularly drawn to the evolving landscape of Natural Language Processing (NLP) and Large Language Models (LLM), including the advancements in Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN). Staying current with these innovations fuels my enthusiasm for contributing to impactful solutions.
+
+Having successfully led supervised and unsupervised models, I am confident in my skills of end-to-end model deployment with Restful APIs. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
+
+With hands-on experience in managing and analyzing large datasets at organizations like Flipkart Internet, I have honed my abilities in data manipulation and dashboard creation. Proficiency in Python, Google App Scripts, and tools like Tableau has empowered me to craft insightful visualizations that support data-driven decision-making.
+
 
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
