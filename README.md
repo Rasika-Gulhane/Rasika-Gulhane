@@ -11,7 +11,7 @@ Privilage to Intern at a marketing and real estate firm called Shoptaki, a start
 
 Moreover, I'm particularly drawn to the evolving landscape of Natural Language Processing (NLP) and Large Language Models (LLM), including the advancements in Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN). Staying current with these innovations fuels my enthusiasm for contributing to impactful solutions.
 
-Having successfully led supervised and unsupervised models, I am confident in my skills of end-to-end model deployment with Restful APIs. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
+Having successfully led supervised and unsupervised models, I am confident in my skills of end-to-end model deployment with Restful APIs. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. [![Project](https://github.com/Rasika-Gulhane/Document_Summarization)]
 
 With hands-on experience in managing and analyzing large datasets at organizations like Flipkart Internet, I have honed my abilities in data manipulation and dashboard creation. Proficiency in Python, Google App Scripts, and tools like Tableau has empowered me to craft insightful visualizations that support data-driven decision-making.
 
