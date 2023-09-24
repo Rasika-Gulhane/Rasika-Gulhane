@@ -65,6 +65,7 @@ With hands-on experience in managing and analyzing large datasets at organizatio
 <br></br>
 ## Let connect :
 Click the link below:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RasikaGulhane-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasika-gulhane-791a7530/
 )
 
