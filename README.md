@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Rasika Gulhane**.
-[[Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)] 
+[Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)
  
 A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
 I come from the heart of the Big Apple, NY where I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
