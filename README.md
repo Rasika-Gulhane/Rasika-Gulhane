@@ -68,5 +68,5 @@ Click the link below:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RasikaGulhane-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasika-gulhane-791a7530/
 )
 
-Email ID:  (rg89225n@pace.edu)
+Email ID:  (rasikasanjay.gulhane@pace.edu)
 
