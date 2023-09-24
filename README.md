@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is **Rasika Gulhane**. 
+My name is **Rasika Gulhane**.
+[![Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)] 
+ 
 A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
-I come from the heart of the Big Apple, NY 🗽🇱🇷 where I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
+I come from the heart of the Big Apple, NY where I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
@@ -60,7 +62,7 @@ With hands-on experience in managing and analyzing large datasets at organizatio
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <br></br>
-### Let connect :
+## Let connect :
 Click the link below:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RasikaGulhane-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasika-gulhane-791a7530/
 )
