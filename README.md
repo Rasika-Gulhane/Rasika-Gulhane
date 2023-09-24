@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is **Rasika Gulhane**.
+
 [Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)
  
 A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
