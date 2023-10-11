@@ -56,6 +56,11 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
+
+[Experience with AI and DeepLearning]
+I had the privilege to Intern at a firm 'Shoptaki' who builds a new type of technology called Smartchain , a startup. I actively contribute to the development of a Property Recommendation System and complex sponsorship recommendations models for a real estate project.
+
+
 <br></br>
 ## Let connect :
 Click the link below:
