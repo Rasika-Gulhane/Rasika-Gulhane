@@ -30,6 +30,7 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 [![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Neo4j](https://img.shields.io/badge/neo4j-%236DB33F.svg?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Cassandra](https://img.shields.io/badge/cassandra-%231287B3.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
