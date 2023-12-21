@@ -36,6 +36,9 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 [![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%230080FF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-%230098FF.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)]
+
 
 ### ML / DL / Big Data
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
