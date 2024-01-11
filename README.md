@@ -8,7 +8,7 @@ I'm pursuing my Master’s in Data Science from [![Pace University](https://img.
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
-Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Airflow, AWS EC2, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. (https://github.com/Rasika-Gulhane/Document_Summarization)
+Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Airflow, AWS EC2, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. (https://github.com/Rasika-Gulhane/Document_Summarization)
 
 
 ## 🧰 Languages and Tools:
