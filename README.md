@@ -4,13 +4,11 @@ My name is **Rasika Gulhane**.
 [Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)
  
 A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
-I come from the heart of the Big Apple, NY where I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
+I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
-I'm particularly drawn to the evolving landscape of Natural Language Processing (NLP) and Large Language Models (LLM), including the advancements in Recurrent Neural Networks (RNN) and Convolutional Neural Networks (CNN). Staying current with these innovations fuels my enthusiasm for contributing to impactful solutions.
-
-Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. (https://github.com/Rasika-Gulhane/Document_Summarization)
+Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Airflow, AWS EC2, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. (https://github.com/Rasika-Gulhane/Document_Summarization)
 
 
 ## 🧰 Languages and Tools:
@@ -63,7 +61,7 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 
 [Experience with AI and DeepLearning]
 
-I had the privilege to Intern at a firm 'Shoptaki' who builds a new type of technology called Smartchain , a startup. I actively contribute to the development of a Property Recommendation System and complex sponsorship recommendations models for a real estate project.
+I had the privilege to Intern at a firm 'Shoptaki' who builds a new type of technology called Smartchain, a startup. I actively contribute to the development of a Property Recommendation System and complex sponsorship recommendations models for a real estate project.
 
 
 <br></br>
