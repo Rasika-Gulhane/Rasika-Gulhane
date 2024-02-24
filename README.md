@@ -1,15 +1,12 @@
 ### Hi there 👋
 My name is **Rasika Gulhane**.
-
-[Linkedin](https://www.linkedin.com/in/rasika-gulhane-791a7530/)
  
-A Data Science enthusiast💻, who thrives on turning data into actionable insights along with AI-driven solutions. 
+I a former Data Analyst, am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. 
 I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
 
 "Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
 
-Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Airflow, AWS EC2, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. (https://github.com/Rasika-Gulhane/Document_Summarization)
-
+Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Airflow, AWS EC2, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
 
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
