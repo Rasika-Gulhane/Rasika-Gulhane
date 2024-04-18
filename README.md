@@ -8,6 +8,8 @@ I'm pursuing my Master’s in Data Science from [![Pace University](https://img.
 
 Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow, AWS services, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
 
+One of My notable achievement is Creating Prescription reading. In which I have perfomed Image text scanning with multiple OCR's (crutial detection) and integrated with Sequential LangChain LLM for perfect understanding of medicinal information and enhanced the project by implementing text to speect for elderly people to peacefully listen the given text.
+
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
 
