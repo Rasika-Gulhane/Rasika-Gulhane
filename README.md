@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is **Rasika Gulhane**.
  
-I a former Data Analyst, am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. 
+As a Data Enthuisast, I am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. 
 I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
 
-"Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about"
+Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about
 
 Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow, AWS services, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
 
