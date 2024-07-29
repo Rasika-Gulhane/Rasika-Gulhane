@@ -6,9 +6,10 @@ I'm pursuing my Master’s in Data Science from [![Pace University](https://img.
 
 Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about
 
-Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow, AWS services, Beanstalk. One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents.
+Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow, AWS services, Beanstalk. 
 
-&#9733; One of my notable achievements is the creation of a 'Prescription Label Reading Device.' This device incorporates image text scanning using multiple OCRs for crucial detection, seamlessly integrated with a Sequential LangChain LLM to ensure a perfect understanding of medicinal information. Furthermore, I enhanced the project by implementing text-to-speech functionality, making it easier for elderly individuals to listen to prescription information.".
+One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, I have led the project shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. Recent learning and hands-on creating LLMOps project with RAG pipeline involved in SmartChain firm Called "Shoptaki". 
+
 
 ## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#how-to-use -->
