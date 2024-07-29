@@ -29,16 +29,8 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 [![Cassandra](https://img.shields.io/badge/cassandra-%231287B3.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%230080FF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/elasticbeanstalk/)
-[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Databricks](https://img.shields.io/badge/Databricks-%230098FF.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)]
 
-
-### ML / DL / Big Data
+### ML & DL Frameworks
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23076EEA.svg?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
@@ -49,6 +41,19 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
+### AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-2D8CFF?style=for-the-badge&logo=LangChain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE10?style=for-the-badge&logo=huggingface&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF5733?style=for-the-badge&logo=LLaMA&logoColor=white)
+
+### Cloud & Data Engineering
+![AWS Services](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-%230098FF.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)]
+
 ### Restful API's
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -58,9 +63,7 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
-[Experience with AI and DeepLearning]
 
-I had the privilege to Intern at a firm 'Shoptaki' who builds a new type of technology called Smartchain, a startup. I actively contribute to the development of a Property Recommendation System and complex sponsorship recommendations models for a real estate project.
 
 
 <br></br>
