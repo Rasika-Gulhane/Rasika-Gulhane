@@ -6,7 +6,7 @@ I'm pursuing my Master’s in Data Science from [![Pace University](https://img.
 
 Imagine being able to predict trends, enhance decision-making, and create innovative products just by harnessing the power of data – that's what I'm all about
 
-Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow, AWS services, Beanstalk. 
+Having successfully led supervised and unsupervised end-to-end model deployment with Restful APIs, Docker and services like Spark, Kafka, Airflow and cloud services like AWS, GCP. 
 
 One notable highlight was earning an honorable mention in an Inclusive Data Hackathon, I have led the project shows casing NLP and deep learning skills to address real-world challenges of summarizing lengthy documents. Recent learning and hands-on creating LLMOps project with RAG pipeline involved in SmartChain firm Called "Shoptaki". 
 
