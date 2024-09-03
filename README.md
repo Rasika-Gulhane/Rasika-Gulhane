@@ -25,11 +25,10 @@ One notable highlight was earning an honorable mention in an Inclusive Data Hack
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23047A48.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 [![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Neo4j](https://img.shields.io/badge/neo4j-%236DB33F.svg?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Cassandra](https://img.shields.io/badge/cassandra-%231287B3.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
 
 ### ML & DL Frameworks
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -49,11 +48,12 @@ One notable highlight was earning an honorable mention in an Inclusive Data Hack
 ![LLaMA](https://img.shields.io/badge/LLaMA-FF5733?style=for-the-badge&logo=LLaMA&logoColor=white)
 
 ### Cloud & Data Engineering
-![AWS Services](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-%230098FF.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)]
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### Restful API's
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -71,8 +71,7 @@ One notable highlight was earning an honorable mention in an Inclusive Data Hack
 ## Let connect :
 Click the link below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RasikaGulhane-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rasika-gulhane-791a7530/
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rasikagulhane-blue)](https://www.linkedin.com/in/rasika-gulhane/)
+[![Email](https://img.shields.io/badge/Email-gulhanerasika%40gmail.com-blue)](mailto:gulhanerasika@gmail.com)
 
-Email ID:(rasikasanjay.gulhane@pace.edu)
 
