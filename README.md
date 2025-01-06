@@ -67,10 +67,6 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 
 
 <br></br>
-## Let connect :
-Click the link below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rasikagulhane-blue)](https://www.linkedin.com/in/rasika-gulhane/)
-[![Email](https://img.shields.io/badge/Email-gulhanerasika%40gmail.com-blue)](mailto:gulhanerasika@gmail.com)
 
 
