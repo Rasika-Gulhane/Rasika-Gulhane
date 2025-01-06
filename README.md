@@ -25,6 +25,7 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23047A48.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23FF9900.svg?style=for-the-badge&logo=oracle&logoColor=white)
 [![PostgreSQL](https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Neo4j](https://img.shields.io/badge/neo4j-%236DB33F.svg?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Cassandra](https://img.shields.io/badge/cassandra-%231287B3.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/)
