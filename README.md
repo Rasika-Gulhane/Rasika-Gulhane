@@ -1,5 +1,4 @@
 ### Hi there 👋
-My name is **Rasika Gulhane**.
  
 As a Data Enthuisast, I am presently endeavoring to delve deep into the realm of Data Science. The fascination I experience when intricately manipulating data or engaging in the artistry of coding to derive actionable insights never ceases to captivate me. 
 I'm pursuing my Master’s in Data Science from [![Pace University](https://img.shields.io/badge/Pace%20-University-%23000000?style=for-the-badge)](https://www.pace.edu/). 
