@@ -55,9 +55,11 @@ Having successfully led supervised and unsupervised end-to-end model deployment 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23FBC02D.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-### Restful API's
+### API Frameworks
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### BI Tools
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
